@@ -1,0 +1,160 @@
+header{
+   background-color: #57614d;
+}
+
+header ul li{
+   display: inline;
+}
+
+header ul li a{
+   font-size: 13px;
+   line-height: 24px;
+   color: #b8c6ac;
+   font-weight: bold;
+   font-family: "Times";
+   text-align: right;
+   filter: drop-shadow(0.5px 0.866px 0px rgba(0,0,0,0.3));
+   text-decoration: none;
+   margin-left: 30px;
+}
+
+.active,  header ul li a:hover{
+   color: #fff;
+}
+
+#two{
+   background-color: #d9d9d9;
+}
+
+#two h3{
+   width: 307px;
+   height: 185px;
+   font-size: 30px;
+   line-height: 48px;
+   color: #4e5944;
+   font-family: "Times New Roman";
+   text-align: center;
+}
+
+#two .card{
+    background-color: #e9e9e9;
+    border: 1px solid #fff;
+}
+
+
+
+
+/*   THREE  CSSS START   */
+#thre{
+    background-color: #e0e0e0;
+}
+#thre h3{
+   font-size: 32px;
+   line-height: 24px;
+   color: #57614e;
+   font-family: "Times New Roman";
+   margin: 25px auto 35px auto;
+}
+
+#thre p{
+   color: #57614e;
+   font-family: "Times New Roman";
+   margin-bottom: 45px;
+}
+
+
+
+
+   /*   FOUR CSS START   */
+
+#four {
+   background-color:#d9d9d9;
+}
+
+#four h3{
+   font-size: 19px;
+   line-height: 30px;
+   color: #57614e;
+   font-family: "Times New Roman";
+   }
+ 
+#four h4{
+   font-size: 14px;
+   line-height: 24px;
+   color: #626262;
+   font-weight: bold;
+   font-family: "Arial";
+   }
+#four p{
+   height: 91px;
+   font-size: 14px;
+   line-height: 24px;
+   color: #626262;
+   font-weight: bold;
+   font-family: "Arial";
+}
+
+#four button{
+   filter: drop-shadow(0.5px 0.866px 0px rgba(0,0,0,0.5));
+   background-image: linear-gradient(0deg, #5b5b5b 0%, #7d7d7d 100%);
+   margin-bottom: 40px;
+}
+
+
+
+
+
+/*   FIVE CSS START   */
+
+#five {
+   background-color: #d9d9d9;
+}
+
+#five h4{
+font: bold 13px "Arial" ;
+line-height: 30px;
+color: #626262;
+margin-top: 40px;
+}
+#five p{
+   font: bold 13px "Arial" ;
+   line-height: 30px;
+   color: #626262;
+}
+
+#five button{
+filter: drop-shadow(0.5px 0.866px 0px rgba(0,0,0,0.5));
+background-image: linear-gradient(0deg, #5b5b5b 0%, #7d7d7d 100%);
+}
+
+
+
+/*   FOOTER CSS START   */
+
+footer{
+   background-color: #4c5842;
+}
+footer p{
+   font-size: 11px;
+   letter-spacing: 0px;
+   line-height: 30px;
+   color: #e2e2e2;
+   font-family: "Arial";
+}
+footer a:nth-child(1){
+   background-color: #3c5a98;
+}
+footer a:nth-child(2){
+   background-color: #28aae1;
+}
+footer a:nth-child(3){
+   background-color: #c13225;
+}
+footer a:nth-child(4){
+   background-color: #cb2027;
+}
+footer i{
+   font-size: 15px;
+   color: white;
+}
+/* dive overflow hiden fotonu */
